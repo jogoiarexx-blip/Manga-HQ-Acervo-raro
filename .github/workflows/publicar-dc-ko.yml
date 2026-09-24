@@ -1,0 +1,45 @@
+name: Publicar DC KO
+on:
+  push:
+    paths:
+      - '_dc_ko_upload/READY'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dc-ko-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Extrair pacotes DC K.O.
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=(_dc_ko_upload/*.zip)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "Nenhum pacote encontrado."
+            exit 1
+          fi
+          for z in "${files[@]}"; do
+            unzip -oq "$z" -d .
+          done
+          rm -rf _dc_ko_upload
+      - name: Publicar arquivos extraídos
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+            exit 0
+          fi
+          git commit -m "Publica DC K.O. no acervo raro"
+          git push origin HEAD:main
