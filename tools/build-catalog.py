@@ -18,6 +18,8 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 STORIES = [
+    ('Batman - A Maldicao do Cavaleiro Branco', 'batman-maldicao-cavaleiro-branco',
+     'Batman: A Maldição do Cavaleiro Branco', 'DC'),
     ('Batman - Cavaleiro Branco Apresenta Capuz Vermelho', 'batman-capuz-vermelho',
      'Batman: Cavaleiro Branco Apresenta Capuz Vermelho', 'DC'),
     ('Batman - Um Dia Ruim - Ras al Ghul', 'batman-um-dia-ruim-ras-al-ghul',
@@ -44,6 +46,8 @@ def number_and_title(folder, stem):
     if not match:
         raise ValueError(f'Edição sem número: {stem}')
     issue = int(match.group(1))
+    if folder == 'Batman - A Maldicao do Cavaleiro Branco':
+        return issue, f'Batman: A Maldição do Cavaleiro Branco #{issue}'
     if folder == 'Batman - Um Dia Ruim - Ras al Ghul':
         return issue, "Batman: Um Dia Ruim - Ra's al Ghul"
     if folder == 'Batman - Cavaleiro Branco Apresenta Capuz Vermelho':

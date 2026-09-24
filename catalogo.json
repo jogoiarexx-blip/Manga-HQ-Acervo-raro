@@ -7,6 +7,117 @@
   ],
   "collections": [
     {
+      "id": "batman-maldicao-cavaleiro-branco",
+      "title": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issues": [
+        {
+          "id": "batman-maldicao-cavaleiro-branco-1",
+          "title": "Batman: A Maldição do Cavaleiro Branco #1",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2001.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2001-cover.webp",
+          "size": 23525374,
+          "pageCount": 32,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 1
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-2",
+          "title": "Batman: A Maldição do Cavaleiro Branco #2",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2002.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2002-cover.webp",
+          "size": 23255253,
+          "pageCount": 31,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 2
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-3",
+          "title": "Batman: A Maldição do Cavaleiro Branco #3",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2003.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2003-cover.webp",
+          "size": 22785102,
+          "pageCount": 32,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 3
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-4",
+          "title": "Batman: A Maldição do Cavaleiro Branco #4",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2004.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2004-cover.webp",
+          "size": 17722656,
+          "pageCount": 28,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 4
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-5",
+          "title": "Batman: A Maldição do Cavaleiro Branco #5",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2005.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2005-cover.webp",
+          "size": 22378045,
+          "pageCount": 32,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 5
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-6",
+          "title": "Batman: A Maldição do Cavaleiro Branco #6",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2006.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2006-cover.webp",
+          "size": 22867998,
+          "pageCount": 34,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 6
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-7",
+          "title": "Batman: A Maldição do Cavaleiro Branco #7",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2007.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2007-cover.webp",
+          "size": 21016200,
+          "pageCount": 32,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 7
+        },
+        {
+          "id": "batman-maldicao-cavaleiro-branco-8",
+          "title": "Batman: A Maldição do Cavaleiro Branco #8",
+          "format": "pdf",
+          "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2008.pdf",
+          "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2008-cover.webp",
+          "size": 22644339,
+          "pageCount": 31,
+          "collectionId": "batman-maldicao-cavaleiro-branco",
+          "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+          "publisher": "DC",
+          "issue": 8
+        }
+      ]
+    },
+    {
       "id": "batman-capuz-vermelho",
       "title": "Batman: Cavaleiro Branco Apresenta Capuz Vermelho",
       "publisher": "DC",
@@ -244,6 +355,110 @@
   ],
   "items": [
     {
+      "id": "batman-maldicao-cavaleiro-branco-1",
+      "title": "Batman: A Maldição do Cavaleiro Branco #1",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2001.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2001-cover.webp",
+      "size": 23525374,
+      "pageCount": 32,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 1
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-2",
+      "title": "Batman: A Maldição do Cavaleiro Branco #2",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2002.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2002-cover.webp",
+      "size": 23255253,
+      "pageCount": 31,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 2
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-3",
+      "title": "Batman: A Maldição do Cavaleiro Branco #3",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2003.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2003-cover.webp",
+      "size": 22785102,
+      "pageCount": 32,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 3
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-4",
+      "title": "Batman: A Maldição do Cavaleiro Branco #4",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2004.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2004-cover.webp",
+      "size": 17722656,
+      "pageCount": 28,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 4
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-5",
+      "title": "Batman: A Maldição do Cavaleiro Branco #5",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2005.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2005-cover.webp",
+      "size": 22378045,
+      "pageCount": 32,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 5
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-6",
+      "title": "Batman: A Maldição do Cavaleiro Branco #6",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2006.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2006-cover.webp",
+      "size": 22867998,
+      "pageCount": 34,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 6
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-7",
+      "title": "Batman: A Maldição do Cavaleiro Branco #7",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2007.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2007-cover.webp",
+      "size": 21016200,
+      "pageCount": 32,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 7
+    },
+    {
+      "id": "batman-maldicao-cavaleiro-branco-8",
+      "title": "Batman: A Maldição do Cavaleiro Branco #8",
+      "format": "pdf",
+      "file": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2008.pdf",
+      "cover": "Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco/Batman%20-%20A%20Maldicao%20do%20Cavaleiro%20Branco%20-%2008-cover.webp",
+      "size": 22644339,
+      "pageCount": 31,
+      "collectionId": "batman-maldicao-cavaleiro-branco",
+      "collectionTitle": "Batman: A Maldição do Cavaleiro Branco",
+      "publisher": "DC",
+      "issue": 8
+    },
+    {
       "id": "batman-capuz-vermelho-1",
       "title": "Batman: Cavaleiro Branco Apresenta Capuz Vermelho #1",
       "format": "pdf",
@@ -451,5 +666,5 @@
       "publisher": "DC"
     }
   ],
-  "itemCount": 16
+  "itemCount": 24
 }
